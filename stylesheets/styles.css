@@ -1,0 +1,19 @@
+body {
+  background-color: #262424;
+  font-family: brush script mt, cursive;
+}
+
+.mysteryLandingPage {
+	
+}
+
+.mysteryLandingPage h1 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 3.5vw;
+  color: #912714;
+}
