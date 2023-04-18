@@ -7,12 +7,33 @@ body {
 	
 }
 
+h1 {
+  color:#912714;
+  font-size: 2.5vw;
+}
+
+.mysteryLandingPage a {
+  color: #912714;
+}
+
 .mysteryLandingPage h1 {
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 48%;
+  left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   font-size: 3.5vw;
   color: #912714;
+}
+
+.mysteryLandingPage h2 {
+  margin: 0;
+  position: absolute;
+  top: 54%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 1.55vw;
+  color: #912714
 }
